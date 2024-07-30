@@ -1,0 +1,1 @@
+web: java -jar build/libs/gft-desenvolvimento-java-com-ia-2024-0.0.1-SNAPSHOT.jar
